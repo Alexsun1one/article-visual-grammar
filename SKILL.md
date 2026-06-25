@@ -15,6 +15,8 @@ Default output: 16:9 horizontal article illustration, strong focal structure, re
 
 The core promise: extract the article first, then decide what diagram form to use, what visual tokens regulate it, what to draw, where text appears, what the text says, how lines/relations/charts/spatial depth create hierarchy, which style system makes the idea easiest to read, and how the final prompt avoids generic AI/PPT output.
 
+For public galleries, README examples, or demo images, do not let the skill look like an engineering workflow generator. Include non-engineering subjects where possible: culture, history, art, education, food, place, memory, psychology, or personal essays. The same clarity contract applies, but the metaphor world must come from the article domain instead of gates, nodes, dashboards, or software props.
+
 World-class default path: do not assume the image model will infer taste from abstract words. Translate beauty into visible art direction: grid, margins, material family, semantic palette, line hierarchy, label containers, typography mode, negative space, focal surprise, and anti-default-AI constraints.
 
 Use the user's language for strategy output, labels, and delivery notes unless they request otherwise. When the source is an article, bind each shot to a concrete section, paragraph, heading, or quote fragment so the image has an editorial reason to exist.

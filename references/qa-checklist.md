@@ -183,3 +183,5 @@ For final delivery, include:
 - intended article placement
 - one-line purpose
 - whether it is final, optional, or needs regeneration
+- native text status: rendered in-image, intentionally no-label, or external overlay by explicit request
+- if this is README/gallery/showcase output, whether at least one image proves the grammar works outside engineering/product topics

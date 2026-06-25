@@ -6,9 +6,18 @@
 
 ## 示例图
 
+<p><img src="examples/images/10-culture-memory-river.png" alt="文化记忆与物件解释" width="100%"><br><sub>文化/历史长文：把物件、记忆、误读和证据组织成一张可读的正文图。</sub></p>
 <p><img src="examples/images/06-72h-ai-town-visual-harness-preview.png" alt="AI 小镇系统图" width="100%"><br><sub>AI 小镇系统图</sub></p>
 <p><img src="examples/images/08-composition-stability-presets-smoke.png" alt="稳定母版示例" width="100%"><br><sub>稳定母版示例</sub></p>
 <p><img src="examples/images/09-prism-operators-character-system.png" alt="动作角色系统" width="100%"><br><sub>动作角色系统</sub></p>
+
+## 最佳默认路线
+
+1. 找到原文里最值得画的一句话，而不是平均概括全文。
+2. 选择一个图式：路线、剖面、物件桌、地图、层级、故事板或纸片舞台。
+3. 锁定一个稳定母版，不让模型临场乱排版。
+4. 写清楚中文标签或决定少字无标签，不把文字当装饰纹理。
+5. 生成后用缩略图、读者路径和美感 QA 反查，不合格就重写 prompt。
 
 ## 它能做什么
 
