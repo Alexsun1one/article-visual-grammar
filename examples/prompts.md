@@ -1,9 +1,9 @@
-# Example Prompts
+# 示例 Prompt
 
 ```text
-Use article-visual-grammar on this Chinese article. First produce figure specs, then generate 3 body illustrations with readable Chinese labels and a shared symbol legend.
+用 article-visual-grammar 读这篇中文长文。先输出 3 张正文配图的 figure specs，再生成配图提示词。要求中文标签可读、每张图绑定原文锚点、整组风格统一。
 ```
 
 ```text
-Use article-visual-grammar for a Chinese publishing example. First explain the planned visual structure, then produce the final image prompt, then run the QA checklist from the skill.
+用 article-visual-grammar 做一个中文发布场景示例。先说明视觉结构，再写最终生图提示词，最后按 Skill 的 QA checklist 自检。
 ```
