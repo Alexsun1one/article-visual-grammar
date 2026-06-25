@@ -1,0 +1,7 @@
+interface:
+  display_name: "Article Visual Grammar"
+  short_description: "自动判图、稳定构图母版、动作辅助角色、视觉 token 和默认出图质量 harness"
+  default_prompt: "Use $article-visual-grammar to segment the article, decide which sections deserve images, select diagram forms, choose one composition stability preset, decide whether a domain-aware Paper Operator action character is needed, define visual tokens and an image quality harness, build figure specs, and plan or generate clear publish-grade article diagrams."
+
+policy:
+  allow_implicit_invocation: true
